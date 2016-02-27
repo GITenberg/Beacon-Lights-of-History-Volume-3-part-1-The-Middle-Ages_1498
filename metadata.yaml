@@ -1,0 +1,22 @@
+_repo: Beacon-Lights-of-History-Volume-3-part-1-The-Middle-Ages_1498
+creator:
+  author:
+    agent_name: Lord, John
+    birthdate: 1810
+    deathdate: 1894
+    gutenberg_agent_id: '653'
+    url: http://www.gutenberg.org/2009/agents/653
+description: ''
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History'
+- !lcc 'D'
+title: 'Beacon Lights of History, Volume 3 part 1: The Middle Ages'
+url: http://www.gutenberg.org/ebooks/1498
